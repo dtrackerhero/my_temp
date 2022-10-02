@@ -3,6 +3,6 @@ Object-Oriented Programming
 - A paradigm for code organization and design that views a software program as a collection of objects that interact with each other
 - An object is a container of data and behavior
 - str, int, list, dictとかのデータ型だけでビジネスロジックを組み立てるのはかなりむずかしいけど、自作のオブジェクトを作れるとなればなんとかなりそう
-
+- 私達の現実世界（要は、身の回りにあるもの）を、できるだけ似せたカタチでプログラミングで使えるように工夫したもの。
 
 https://qiita.com/Saku731/items/741fcf0f40dd989ee4f8
