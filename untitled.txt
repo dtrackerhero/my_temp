@@ -1,3 +1,7 @@
 
+Object-Oriented Programming
+- A paradigm for code organization and design that views a software program as a collection of objects that interact with each other
+- An object is a container of data and behavior
+
 
 https://qiita.com/Saku731/items/741fcf0f40dd989ee4f8
